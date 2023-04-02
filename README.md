@@ -1,5 +1,5 @@
 # Public page for cat-bots
-I saw botpolice.eu's public page for their cat-bots but it was mostly data being hardcoded I decided to make their joke website become a reality. This repo is created to let the public see what server is your bots are playing and what they are doing.
+I saw botpolice.eu's public page for their cat-bots but it was mostly data being hardcoded. This repo is created to let the everyone see what server is your bots are playing and what or how they are doing.
 
 Please make sure to edit `index.html` and `scripts/pub.js`.
 

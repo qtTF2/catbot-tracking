@@ -9,8 +9,8 @@ If u have catbot-setup installed just go to `/home/$USER/Desktop/catbot-setup/ca
 Copy everything u see in the public folder into its folder **before planning to copy the files from this repo** and call it /admin. Beware bcuz people will able to access the admin panel but they will unable to use any admin commands as it will require them authentication.
 
 # Credits
-[**nullworks**](https://github.com/nullworks) - their code for listing bots (pub.js)
+[**nullworks**](https://github.com/nullworks) - code for listing bots (bundle.js)
 
-[**Bintr (explowz)**](https://github.com/explowz) - his catbot scripts (browser.js)
+[**Bintr (explowz)**](https://github.com/explowz) - updated code for listing bots (browser.js)
 
 [**d3fc0n6**](https://github.com/d3fc0n6) - Original idea (botpolice.eu)
